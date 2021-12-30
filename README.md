@@ -5,7 +5,7 @@
 | Highlights | |
 :-:|:-:
 [TrapCamera](https://github.com/alepetri/trap_camera) | ![GrayFox](./assets/gray_fox.gif)
-[CubeSim](https://github.com/alepetri/cube_simulation) | ![CubeSim](./assets/cube.gif)
+[CubeSim](https://github.com/alepetri/cube_simulation) | ![CubeSim](./assets/Cube.gif)
 
 
 <!--
