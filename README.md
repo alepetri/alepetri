@@ -5,6 +5,7 @@
 | Highlights | |
 :-:|:-:
 [TrapCamera](https://github.com/alepetri/trap_camera) | ![GrayFox](./assets/gray_fox.gif)
+[TheRoamingDiv](https://github.com/alepetri/the_roaming_div) | ![RoamingDiv](./assets/roaming_div.gif)
 [CubeSim](https://github.com/alepetri/cube_simulation) | ![CubeSim](./assets/cube.gif)
 
 
